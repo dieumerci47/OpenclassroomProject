@@ -4,3 +4,9 @@ h1{
 span{
     color:green
 }
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow:  2px 4px 8px rgba(0,0,0,.3);
+}
