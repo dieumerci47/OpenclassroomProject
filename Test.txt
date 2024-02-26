@@ -1,1 +1,3 @@
 ajouter text
+pour agrnt = eval "$(ssh-agent -s)"
+add key= ssh-add 'd:/Users/dieum/.ssh/id_ed25519'
